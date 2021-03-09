@@ -3,3 +3,5 @@ first commit
 local commit
 
 commit remote
+
+new commit
